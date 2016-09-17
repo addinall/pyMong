@@ -1,6 +1,6 @@
 # pyMong
 ## Python - MONGO REST API 
-### Mark Addinall - Brisbane - September 2016
+### Mark Addinall - Brisbane - 16 September 2016
 ---- 
 ### About This Project
 
@@ -12,6 +12,8 @@ It dawned on me to give a REST architecture are run with Python and/or PHP
 in the back end.  It may save some complexity.  It may not.
 
 This is me having a looksee at pyMong.
+For this cut, I am going to use Gulp, Bower and Browserify.
+
 
 
 
