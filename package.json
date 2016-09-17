@@ -1,0 +1,32 @@
+{
+  "name": "pymong",
+  "version": "1.0.0",
+  "description": "TEst system for Fastrack",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addinall/pyMong.git"
+  },
+  "keywords": [
+    "React",
+    "Python",
+    "API",
+    "Mongo"
+  ],
+  "author": "Mark Addinall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/addinall/pyMong/issues"
+  },
+  "homepage": "https://github.com/addinall/pyMong#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  },
+  "dependencies": {}
+}

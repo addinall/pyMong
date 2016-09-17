@@ -1,0 +1,28 @@
+{
+  "name": "pyMong",
+  "homepage": "https://github.com/addinall/pyMong",
+  "authors": [
+    "addinall <addinall@addinall.net>"
+  ],
+  "description": "Test system for Fastrack new build",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "React",
+    "Python",
+    "API",
+    "Mongo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~15.3.1",
+    "bootstrap": "~3.3.7"
+  }
+}
