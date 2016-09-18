@@ -14,6 +14,8 @@ in the back end.  It may save some complexity.  It may not.
 This is me having a looksee at pyMong.
 For this cut, I am going to use Gulp, Bower and Browserify.
 
+As of Sunday night this still has some run time errors so it isn't
+a good demo yet.  Fix it up tomorrow,
 
 
 
